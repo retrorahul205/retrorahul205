@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Undergraduate (CGPA: 9.0)
+- 🎓 Computer Science Undergraduate
 - 🧠 Strong in **Data Structures & Algorithms**
 - 🔐 Interested in **Security, Authentication Systems & Backend Design**
 - 🤖 Exploring **AI / Computer Vision / Video Analytics**
@@ -83,5 +83,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
-- Email: yourmail@example.com
+- LinkedIn: https://www.linkedin.com/in/rahul-chaudhary-9a892325b/
+- Email: rahul205chaudhary@gmail.com
