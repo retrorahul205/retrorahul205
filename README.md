@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Chaudhary</h1>
-<h3 align="center">Backend • Full-Stack • AI • Game Dev</h3>
+<img src="Github Banner.png" width="100%" />
 
 <p align="center">
   Turning ideas into scalable systems, secure apps, and interactive experiences.
