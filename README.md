@@ -1,8 +1,9 @@
 <img src="Github Banner.png" width="100%" />
 
-<p align="center">
+<p align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size:19px; font-weight:500; letter-spacing:0.5px;">
   Turning ideas into scalable systems, secure apps, and interactive experiences.
 </p>
+
 
 ---
 
