@@ -79,7 +79,10 @@
 ---
 
 ## 🎵 Fun Fact
-`while(coding) { playMusic(); repeat(); }`
+`while(coding)
+    { playMusic(); 
+      repeat(); 
+  }`
 
 ---
 
